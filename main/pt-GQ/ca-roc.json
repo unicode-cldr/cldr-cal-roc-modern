@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "pt",
         "territory": "GQ"
@@ -290,16 +290,16 @@
             },
             "eras": {
               "eraNames": {
-                "0": "Antes de R.O.C.",
-                "1": "R.O.C."
+                "0": "Antes da R.C.",
+                "1": "Minguo"
               },
               "eraAbbr": {
-                "0": "Antes de R.O.C.",
-                "1": "R.O.C."
+                "0": "Antes da R.C.",
+                "1": "Minguo"
               },
               "eraNarrow": {
-                "0": "Antes de R.O.C.",
-                "1": "R.O.C."
+                "0": "Antes da R.C.",
+                "1": "Minguo"
               }
             },
             "dateFormats": {
@@ -320,8 +320,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
