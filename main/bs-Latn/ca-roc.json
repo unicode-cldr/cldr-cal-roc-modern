@@ -3,7 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bs",
         "script": "Latn"
@@ -289,15 +289,15 @@
             },
             "eras": {
               "eraNames": {
-                "0": "Before R.O.C.",
+                "0": "prije R.O.C.",
                 "1": "R.O.C."
               },
               "eraAbbr": {
-                "0": "Before R.O.C.",
+                "0": "prije R.O.C.",
                 "1": "R.O.C."
               },
               "eraNarrow": {
-                "0": "Before R.O.C.",
+                "0": "prije R.O.C.",
                 "1": "R.O.C."
               }
             },
@@ -322,7 +322,7 @@
                 "Bh": "h B",
                 "Bhm": "h:mm B",
                 "Bhms": "h:mm:ss B",
-                "d": "d",
+                "d": "d.",
                 "E": "ccc",
                 "EBhm": "E h:mm B",
                 "EBhms": "E h:mm:ss B",
@@ -341,7 +341,7 @@
                 "Hm": "HH:mm",
                 "hms": "hh:mm:ss a",
                 "Hms": "HH:mm:ss",
-                "M": "L",
+                "M": "L.",
                 "Md": "d.M.",
                 "MEd": "E, d.M.",
                 "MMM": "LLL",
